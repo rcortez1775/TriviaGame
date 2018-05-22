@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-image: url("https://images6.alphacoders.com/717/thumb-1920-717752.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  #container {
+    width: 960px;
+    min-height: 80%;
+    box-sizing: border-box;
+    padding: 5% 0;
+    margin: 5% auto;
+    opacity: 0.8;
+    background-color: lightgray;
+  }
+
+  h1 {
+    margin-bottom: 50px;
+    font-family: fantasy;
+    font-size: 6.5em;
+    font-weight: bold;
+    color: black;
+  }
+
+  #questionForm h2 {
+background: white;
+margin-top: 50px;
+  }
